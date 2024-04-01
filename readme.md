@@ -8,6 +8,8 @@ how to start
 4. npm i jsonwebtoken
 5. npm i bcrypt
 
+Challenge
+
 1. buat rest API crud setiap resource, kecuali auth
 2. di auth api terdapat 3 API : register, login dan checktoken. API checktoken memberikan response api data user pemilik token
 3. ASSOCIATE antar models sesuai database diagram nya
